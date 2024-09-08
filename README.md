@@ -10,9 +10,4 @@
  
  Erosion: Used to structure the image where it shrinks the foreground image and enlarges the background image. This will result in a readable output image.
 
-![image](https://github.com/tengkoku/Image-Segmentation/assets/148973550/9ddf7575-1c86-4d17-b02b-098d8acbbff9)
-![image](https://github.com/tengkoku/Image-Segmentation/assets/148973550/aa91de28-4b16-4be7-a141-378fe732d233)
-![image](https://github.com/tengkoku/Image-Segmentation/assets/148973550/d74bf19b-0ef5-4288-874a-848b93da49be)
 
- Mask 3 is the most suitable for a fair background that contrasts with the foreground. The higher the number of segmentation masks, the more pixels will be isolated. Images with shadows at the background and 
- different pixels that make it hard to segment. Therefore, the suitable segmentation masks for these images are 5.
